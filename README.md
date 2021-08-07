@@ -1,7 +1,7 @@
 # Green-s-Function
 A program in my Modeling and Simulation class that uses Green's Function to solve an ODE and compares it to my handwritten solution. 
 
-Instructions:
+# Instructions:
 Installs of Required Software/Libraries:
 You are going to need a properly running computer with at least 8GB of Ram. 
 To run this program, you will need to install the following Python libraries: SciPy, NumPy and Matplotlib.
